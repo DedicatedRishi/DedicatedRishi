@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rushikesh_Dharme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushikesh-dharme-514504243/)](https://www.linkedin.com/in/rushikesh-dharme-514504243/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://dedicatedrishi.github.io/profile-web-rushi/)
+[![Website Badge](https://img.shields.io/badge/WebSite-profile-web-rushi-green)](https://dedicatedrishi.github.io/profile-web-rushi/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rushikesh_Dharme-yellow)](https://stackoverflow.com/users/20247379/rushikesh-dharme)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-All_About_'Mallakhamb'-red)](https://www.youtube.com/channel/UC76CNrqoFGiOMS_94uU8lYw)
 
